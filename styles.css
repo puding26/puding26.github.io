@@ -73,10 +73,10 @@ span {
     justify-content: center;
     left: 0;
     right: 0;
-    top: 300px;
+    top: 100px;
     margin: auto;
     bottom: 0;
-    color: #FDFFFF;
+    color: #000000;
     font-size: 24px;
     font-weight: 500;
 }
